@@ -6,7 +6,7 @@ A collection of coding practice materials and resources for Maang Company.
 
 1. Clone this repository:
 
-- git clone https://github.com/your-username/maang-coding-prep.git
+- git clone https://github.com/JJ-Dynamite/MAANG.git
 
 
 2. Install dependencies (if any).

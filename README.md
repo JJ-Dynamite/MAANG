@@ -13,7 +13,7 @@ A collection of coding practice materials and resources for Maang Company.
 
 ## Usage
 
-- Navigate to specific folders for different topics (e.g., algorithms, data structures).
+- Navigate to specific folders for different topics (e.g., algorithms, dataStructures).
 - Read the problem statements and attempt the exercises.
 - Check the solutions provided.
 
@@ -36,4 +36,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or feedback, reach out to me at your@email.com.
+For questions or feedback, reach out to me at joelmulammoottil994@gmail.com.
